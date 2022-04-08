@@ -17,7 +17,7 @@ Também foi necessário executar duas ordenações sendo a primeira por
 
 ## Documentação
 
-[Documentação](https://docs.google.com/document/d/1OhpVXBw5TlCYGgvS52ax5L7vZ2wWNWFq31zRAyE4kG4/edit?usp=sharing)
+[Documentação](https://github.com/AugustoEstevaoMonte/RockyProblemTest/blob/main/Documenta%C3%A7%C3%A3o%20do%20Projeto.pdf)
 
 
 ## Demonstração
