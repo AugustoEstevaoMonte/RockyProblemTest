@@ -1,3 +1,10 @@
+/**
+ * @author: Augusto Estevão Monte
+ * @version: 1.0
+ * @date 07/04/2022
+ */
+
+
 const fs = require('fs');
 
 
@@ -156,3 +163,39 @@ function main() {
 */
 
 main();
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/**
+ * @author: Augusto Estevão Monte
+ * @version: 1.0
+ * @date 07/04/2022
+ */
